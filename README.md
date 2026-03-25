@@ -1,7 +1,7 @@
 # Hi, I'm Erbaltazar 👋
 ### Senior System Engineer | Aspiring MLOps Engineer
 
-I am a veteran System Engineer living in Tokyo with 10+ years of experience in high-reliability environments. Currently, I am pivoting my expertise in Linux, C, Javascript, and Java toward **Automated AI Infrastructure and MLOps**.
+I am a veteran System Engineer in Japan with 10+ years of experience in high-reliability environments. Currently, I am pivoting my expertise in Linux, C, Javascript, and Java toward **Automated AI Infrastructure and MLOps**.
 
 ---
 
