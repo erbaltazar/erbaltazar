@@ -22,15 +22,16 @@ I am documenting my journey from manual systems management to automated MLOps pi
 | **Workflow** | Manual Production Fixes, System Design | CI/CD, Automated Monitoring |
 
 ---
+## 🌏 Language & Cultural Competency
+- **Japanese:** Full Professional Proficiency (10+ Years in Japan)
+  - *Business-level technical communication in high-pressure system environments.*
+  - *Expert in Japanese business documentation and "Horenso" (Reporting/Contact/Consulting).*
+- **English / Tagalog:** Native / Bilingual Proficiency
 
 ## 📂 Active Projects
 * 🛠️ [MLOps-Foundations](link-to-your-first-repo) - Transitioning manual Linux log checks into Python automation.
 
----
-
 ## 📫 **Find me on LinkedIn:** TBD
-
----
 
 ## 📅 2026 Roadmap
 - [ ] **Q2:** Complete AWS Machine Learning Associate (MLA-C01)
