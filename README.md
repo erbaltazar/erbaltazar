@@ -28,7 +28,7 @@ I am documenting my journey from manual systems management to automated MLOps pi
 
 ---
 
-## 📫 **Find me on LinkedIn:** [Your-LinkedIn-URL-Here]
+## 📫 **Find me on LinkedIn:** TBD
 
 ---
 
